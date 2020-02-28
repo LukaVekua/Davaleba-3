@@ -1,0 +1,32 @@
+.mesamepagepic{
+        padding: 20px;
+        width: 250px;
+        height: 150px;
+        position:absolute;
+        left:180px;
+        top:50px;      
+}
+.gawevatxt{
+    margin-left:-350px;
+}
+.margin{
+    margin-left:-280px;
+}
+.marginplus{
+    margin-left:-300px;
+}
+.marginagain{
+    margin-left:-190px;
+}
+.mesamepage2pic{
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+    position:absolute;
+    right:600px;
+    bottom:450px;  
+}
+.linkisgaweva{
+    margin-left:-350px;
+    margin-top:-500px;   
+}
